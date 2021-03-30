@@ -21,7 +21,7 @@ namespace UPMPackageDemo
 
         private void Greet()
         {
-            Debug.Log($"Helle! It has been {Time.realtimeSinceStartup:F2} seconds since start up.");
+            Debug.Log($"Hello! It has been {Time.realtimeSinceStartup:F2} seconds since start up.");
         }
     }
 }
