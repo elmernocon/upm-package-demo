@@ -1,7 +1,7 @@
 {
     "name": "com.elmernocon.upmpackagedemo",
     "displayName": "UPM Package Demo",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "unity": "2020.3",
     "description": "For demoing UPM package development.",
     "keywords": [
