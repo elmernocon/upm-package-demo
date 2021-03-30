@@ -1,3 +1,9 @@
+## 1.0.0 (2021-03-30)
+
+### Feat
+
+- change greeter start return type from an ienumerator into void
+
 ## v0.2.0 (2021-03-30)
 
 ### Fix
