@@ -1,0 +1,14 @@
+{
+    "name": "com.elmernocon.upmpackagedemo",
+    "displayName": "UPM Package Demo",
+    "version": "0.0.1",
+    "unity": "2020.3",
+    "description": "For demoing UPM package development.",
+    "keywords": [
+      "unity"
+    ],
+    "author": {
+      "name": "Elmer Nocon",
+      "email": "elmernocon@gmail.com"
+    }
+}
